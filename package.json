@@ -1,0 +1,37 @@
+{
+  "name": "kampfgeist-pt",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "framer-motion": "^12.10.0",
+    "wouter": "^3.3.5",
+    "i18next": "^25.2.1",
+    "react-i18next": "^15.5.1",
+    "lucide-react": "^0.511.0",
+    "react-hook-form": "^7.56.3",
+    "zod": "^3.25.20",
+    "@hookform/resolvers": "^5.0.1",
+    "react-tinder-card": "^1.6.4",
+    "papaparse": "^5.5.3",
+    "clsx": "^2.1.1",
+    "tailwind-merge": "^3.3.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.4",
+    "@types/react-dom": "^19.1.4",
+    "@types/papaparse": "^5.3.15",
+    "@vitejs/plugin-react": "^4.5.1",
+    "typescript": "~5.8.3",
+    "vite": "^6.3.5",
+    "tailwindcss": "^4.1.7",
+    "@tailwindcss/vite": "^4.1.7"
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "meta": {
+    "title": "Kampfgeist Personal Training — Fit Despite Busy Schedules | Osnabrück",
+    "description": "Personal training in Osnabrück and online — for busy professionals who want real results. No generic programs. A system that becomes part of you."
+  },
+  "nav": {
+    "method": "Method",
+    "coach": "About",
+    "results": "Results",
+    "services": "Services",
+    "contact": "Contact",
+    "cta": "Book a call"
+  },
+  "hero": {
+    "eyebrow": "KAMPFGEIST PERSONAL TRAINING",
+    "headline": "Fit despite your busy schedule.",
+    "subline": "Forget everything you think you know about training and nutrition. We meet you exactly where you are right now.",
+    "trustBadge": "{{rating}} · {{count}} reviews on Google",
+    "ctaWhatsapp": "Message on WhatsApp",
+    "ctaCal": "Free consultation",
+    "micro": "5 minutes. No pressure. Just clarity.",
+    "scrollHint": "Discover more"
+  },
+  "k3": {
+    "eyebrow": "THE K3 METHOD",
+    "headline": "Three pillars. One system. ZERO EXCUSES.",
+    "sub": "WE GET YOU IN YOUR BEST SHAPE — NO MATTER WHERE YOU START",
+    "cards": [
+      {
+        "title": "Fighting Spirit",
+        "body": "No matter where you are today — we meet you there. No generic programs. We build a system of habits tailored to your life — and it stays with you when we're done."
+      },
+      {
+        "title": "Balanced Nutrition",
+        "body": "Eat what you enjoy and stay on track. No crash diets, no deprivation rituals. Nutrition that fits your life — not the other way around."
+      },
+      {
+        "title": "Physical Fitness",
+        "body": "Find the sport that truly suits you. If you can't integrate it into your daily life, it's the wrong sport. Together we find the training that keeps you in shape long-term — even without me."
+      }
+    ]
+  },
+  "coach": {
+    "label": "BEHIND KAMPFGEIST",
+    "tagline": "How do I live the Kampfgeist?",
+    "bio": "Over 15 years of experience in personal training. More than 150 people guided — from the first exercise to their own routine.\n\nMy goal is not for you to need me permanently. My goal is for you to learn how your body works — and eventually keep going because you know what you're doing.",
+    "badges": ["15+ Years Experience", "150+ Clients", "Online & Osnabrück"],
+    "ctaTrafos": "See Why You Can Do This With Me",
+    "ctaCal": "Book a call",
+    "imgAlt": "Lukas Heynemeier — Kampfgeist Personal Training"
+  },
+  "transformations": {
+    "badge": "REAL RESULTS. NO PROMISES.",
+    "eyebrow": "TRANSFORMATIONS",
+    "headline": "What's actually possible.",
+    "sub": "No bodybuilders. No exceptions. People like you — busy, serious, consistent.",
+    "before": "Before",
+    "after": "After",
+    "weeks": "Weeks"
+  },
+  "qualifier": {
+    "eyebrow": "ARE YOU READY?",
+    "headline": "Four questions. One honest answer.",
+    "questions": [
+      "You want real results — no half measures?",
+      "You're ready to take responsibility for your body?",
+      "You want to learn how your body works — without being permanently dependent?",
+      "You're done waiting until tomorrow?"
+    ],
+    "yes": "Yes",
+    "no": "No",
+    "noMessage": "We understand. Reach out when you're ready.",
+    "completedHeadline": "THEN UNLEASH YOUR FIGHTING SPIRIT",
+    "completedCta": "Message on WhatsApp",
+    "completedMicro": "The first consultation is always free. Always."
+  },
+  "forWhom": {
+    "headline": "Who this is for. And who it's not.",
+    "forLabel": "This is you",
+    "notLabel": "Not for you",
+    "for": [
+      "You want to finally follow through — not just talk about it",
+      "You're busy but want to deliver results anyway",
+      "You take responsibility for your own outcomes",
+      "You want to learn, not stay dependent",
+      "You can handle honest feedback"
+    ],
+    "not": [
+      "You're looking for a magic pill",
+      "You want someone to do everything for you",
+      "You quit after three weeks when it gets uncomfortable",
+      "You need someone to permanently hold your hand"
+    ]
+  },
+  "services": {
+    "eyebrow": "SERVICES",
+    "headline": "What I can offer you.",
+    "ctaLabel": "Book a call",
+    "fallback": [
+      {
+        "title": "Personal Training",
+        "description": "Individually tailored training — online, in-person, or hybrid. No generic plan, but a system for your daily life.",
+        "icon": "Dumbbell"
+      },
+      {
+        "title": "Box Coach",
+        "description": "Group fitness, technique and conditioning. Effective training that challenges and advances you.",
+        "icon": "Target"
+      },
+      {
+        "title": "Corporate Fitness",
+        "description": "Tailored fitness programs for companies and teams. More productive employees, healthier culture.",
+        "icon": "Building2"
+      }
+    ]
+  },
+  "reviews": {
+    "eyebrow": "REVIEWS",
+    "headline": "What others say about Lukas.",
+    "allReviews": "All reviews on Google",
+    "readMore": "Read more",
+    "readLess": "Read less"
+  },
+  "instagram": {
+    "eyebrow": "INSTAGRAM",
+    "headline": "He really does this every day.",
+    "handle": "@kampfgeist.personal.training",
+    "followCta": "Follow us on Instagram",
+    "fallbackText": "Check out Instagram — daily insights, real results, no filter."
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "headline": "Still have questions?",
+    "items": [
+      {
+        "question": "What does personal training cost?",
+        "answer": "The first consultation is always free. Afterwards we discuss transparently what works for you — no hidden costs, no surprises."
+      },
+      {
+        "question": "How does the first consultation work?",
+        "answer": "15–30 minutes, phone or video. No sales pitch. We look together at whether and how I can help you. If not, I'll say so."
+      },
+      {
+        "question": "I have no time — how is this supposed to work?",
+        "answer": "That's exactly what this system is built for. 20 minutes a day is enough — if they're the right 20 minutes. We build the plan around your life, not the other way around."
+      },
+      {
+        "question": "Will I become dependent on Lukas?",
+        "answer": "That's the most common objection — and the best one. No. My goal is for you to eventually keep training because you know what you're doing — not because you have to. Dependency is the opposite of what I want."
+      },
+      {
+        "question": "Does this work fully online?",
+        "answer": "Yes. Completely. Lukas works remotely via the OC App — training planning, check-ins, feedback. Everything works without being on-site."
+      },
+      {
+        "question": "What if I give up?",
+        "answer": "Then it was the wrong system or the wrong time. No drama. But whoever contacts us for a first consultation has usually already decided — you're reading this right now, so you already know."
+      }
+    ]
+  },
+  "lossAversion": {
+    "headline": "What does every week of waiting cost you?",
+    "sub": "Not in money. In the body you could have."
+  },
+  "finalCta": {
+    "eyebrow": "NOW OR NEVER.",
+    "headline": "You're reading this right now. That's no coincidence.",
+    "sub": "What are you going to do with the next moment?",
+    "ctaWhatsapp": "Message on WhatsApp",
+    "ctaCal": "Book appointment",
+    "micro1": "The first consultation is always free. Always.",
+    "micro2": "Responds within 24h."
+  },
+  "popup": {
+    "variantA": {
+      "headline1": "ACT TODAY.",
+      "headline2": "REGRET LATER.",
+      "body": "Unleash Your Fighting Spirit!",
+      "sub": "You have the opportunity RIGHT NOW to change your life forever. How will you decide?",
+      "cta1": "Sign Up Now",
+      "cta2": "Talk To Me — 5 Minutes",
+      "dismiss": "Stay Where You Are"
+    },
+    "variantB": {
+      "headline1": "ONE CONVERSATION.",
+      "headline2": "5 MINUTES. FREE.",
+      "body": "No pressure. No commitment.",
+      "sub": "Just clarity about whether and how personal training can work for you.",
+      "cta1": "Book appointment now",
+      "cta2": "Message on WhatsApp",
+      "dismiss": "No thanks"
+    }
+  },
+  "cookie": {
+    "text": "We use cookies for analytics and marketing — only with your consent.",
+    "acceptAll": "Accept all",
+    "necessaryOnly": "Necessary only",
+    "settings": "Settings",
+    "privacy": "Privacy",
+    "settingsTitle": "Cookie Settings",
+    "analyticsLabel": "Analytics (GA4)",
+    "analyticsDesc": "Helps us understand how the site is used.",
+    "adsLabel": "Marketing (Meta Pixel)",
+    "adsDesc": "Enables targeted advertising.",
+    "save": "Save settings"
+  },
+  "whatsapp": {
+    "ariaLabel": "Message on WhatsApp",
+    "micro": "Responds within 24h",
+    "prefilledText": "Hey Lukas, I've seen your website and would like to find out if you can help me."
+  },
+  "calDialog": {
+    "title": "Free First Consultation",
+    "micro": "The first consultation is always free. Always.",
+    "phoneCta": "Book a slot and I'll call you",
+    "videoCta": "Invest 5 minutes. Change your life.",
+    "namePlaceholder": "Your name (optional)",
+    "phonePlaceholder": "Your phone number",
+    "emailPlaceholder": "Your email address",
+    "phoneTab": "Phone",
+    "videoTab": "Video",
+    "submit": "Book appointment",
+    "phoneRequired": "Phone number is required",
+    "emailRequired": "Email is required",
+    "emailInvalid": "Invalid email address"
+  },
+  "footer": {
+    "tagline": "Fit despite a busy schedule. Personal Training in Osnabrück & Online.",
+    "links": "Links",
+    "legal": "Legal",
+    "impressum": "Imprint",
+    "datenschutz": "Privacy Policy",
+    "copyright": "© {{year}} Kampfgeist Personal Training · Lukas Heynemeier · Osnabrück",
+    "allReviews": "All reviews on Google",
+    "instagram": "Instagram",
+    "languageSwitch": "Deutsch"
+  },
+  "impressum": {
+    "title": "Imprint",
+    "name": "Lukas Heynemeier",
+    "business": "Kampfgeist Personal Training",
+    "address": "TODO: Street, ZIP Osnabrück",
+    "email": "TODO: kontakt@kampfgeist-pt.com",
+    "phone": "TODO: +49 XXX XXXXXXXX",
+    "vatNote": "Small business owner pursuant to § 19 UStG",
+    "responsibleLabel": "Responsible for content",
+    "responsible": "Lukas Heynemeier"
+  },
+  "datenschutz": {
+    "title": "Privacy Policy",
+    "intro": "Protecting your personal data is important to us. Below we inform you about the processing of your data on this website.",
+    "responsibleHeadline": "Data Controller",
+    "responsible": "Lukas Heynemeier · Kampfgeist Personal Training · TODO: Address · TODO: Email",
+    "hostingHeadline": "Hosting",
+    "hosting": "This website is hosted on a VPS server in Germany. The provider processes connection data as part of server logs.",
+    "analyticsHeadline": "Analytics (Google Analytics 4)",
+    "analytics": "We only use Google Analytics 4 with your explicit consent. Data is anonymized and used solely to improve our services.",
+    "pixelHeadline": "Meta Pixel",
+    "pixel": "The Meta Pixel is only loaded after consent and enables us to run targeted advertising on Facebook and Instagram.",
+    "rightsHeadline": "Your Rights",
+    "rights": "You have the right to access, correct, delete and restrict the processing of your data. Contact the email address above.",
+    "cookiesHeadline": "Cookies",
+    "cookies": "We use technically necessary cookies and — with consent — analytics and marketing cookies. You can withdraw your consent at any time.",
+    "whatsappHeadline": "WhatsApp",
+    "whatsapp": "When you contact us via WhatsApp, your messages are processed by Meta Inc. We recommend not sending sensitive data via WhatsApp."
+  },
+  "notFound": {
+    "headline": "404",
+    "sub": "This page doesn't exist.",
+    "cta": "Back to home"
+  }
+}

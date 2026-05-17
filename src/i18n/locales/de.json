@@ -1,0 +1,276 @@
+{
+  "meta": {
+    "title": "Kampfgeist Personal Training — Fit trotz wenig Zeit | Osnabrück",
+    "description": "Personal Training in Osnabrück und online — für Vielbeschäftigte, die echte Ergebnisse wollen. Kein Standardprogramm. Ein System, das Teil von dir wird."
+  },
+  "nav": {
+    "method": "Methode",
+    "coach": "Über mich",
+    "results": "Ergebnisse",
+    "services": "Leistungen",
+    "contact": "Kontakt",
+    "cta": "Gespräch buchen"
+  },
+  "hero": {
+    "eyebrow": "KAMPFGEIST PERSONAL TRAINING",
+    "headline": "Keine Zeit & Trotzdem Fit",
+    "subline": "Wir holen Dich da ab, wo Du gerade stehst. Keine Ausreden für Deine Gesundheit.",
+    "trustBadge": "{{rating}} · {{count}} Bewertungen auf Google",
+    "ctaWhatsapp": "WhatsApp schreiben",
+    "ctaCal": "Kostenloses Gespräch",
+    "micro": "5 Minuten. Kein Druck. Nur Klarheit.",
+    "scrollHint": "Mehr entdecken"
+  },
+  "k3": {
+    "eyebrow": "DIE K3-METHODE",
+    "headline": "Drei Säulen. Ein System. NULL AUSREDEN.",
+    "sub": "WIR BRINGEN DICH IN DEINE TRAUMFORM — EGAL WO DU STEHST",
+    "cards": [
+      {
+        "title": "Kampfgeist",
+        "body": "Egal wo du heute stehst — wir holen dich ab. Kein Standardprogramm. Wir bauen ein System aus Gewohnheiten, das auf deinen Alltag zugeschnitten ist — und das bleibt, wenn wir fertig sind."
+      },
+      {
+        "title": "Ausgewogene Ernährung",
+        "body": "Iss was du magst und bleib trotzdem auf Kurs. Keine Crash-Diäten, keine Verzichtsrituale. Ernährung, die zu deinem Leben passt — nicht umgekehrt."
+      },
+      {
+        "title": "Körperliche Fitness",
+        "body": "Finde den Sport, der wirklich zu dir passt. Wenn du ihn nicht in deinen Alltag integrieren kannst, ist er der falsche Sport. Gemeinsam finden wir das Training, das dich langfristig in Form hält — auch ohne mich."
+      }
+    ]
+  },
+  "coach": {
+    "label": "HINTER KAMPFGEIST",
+    "tagline": "Wie lebe ich Kampfgeist?",
+    "bio": "Über 15 Jahre Erfahrung im Personal Training. Mehr als 150 Menschen begleitet — von der ersten Übung bis zur eigenen Routine.\n\nMein Ziel ist nicht, dass du mich dauerhaft brauchst. Mein Ziel ist, dass du lernst, wie dein Körper funktioniert — und irgendwann weiterarbeitest, weil du weißt, was du tust.",
+    "badges": [
+      "15+ Jahre Erfahrung",
+      "150+ Kunden",
+      "Online & Osnabrück"
+    ],
+    "ctaTrafos": "Warum Du Das Mit Mir schaffst — siehst Du Hier",
+    "ctaCal": "Gespräch buchen",
+    "imgAlt": "Lukas Heynemeier — Kampfgeist Personal Training"
+  },
+  "transformations": {
+    "badge": "ECHTE ERGEBNISSE. KEINE VERSPRECHEN.",
+    "eyebrow": "TRANSFORMATIONEN",
+    "headline": "Was wirklich möglich ist.",
+    "sub": "Keine Bodybuilder. Keine Ausnahmen. Menschen wie du — vielbeschäftigt, ernsthaft, konsequent.",
+    "before": "Vorher",
+    "after": "Nachher",
+    "weeks": "Wochen"
+  },
+  "qualifier": {
+    "eyebrow": "BIST DU BEREIT?",
+    "headline": "Vier Fragen. Eine ehrliche Antwort.",
+    "questions": [
+      "Du willst echte Ergebnisse — keine halben Sachen?",
+      "Du bist bereit, Verantwortung für deinen Körper zu übernehmen?",
+      "Du willst lernen, wie dein Körper funktioniert — ohne dauerhaft abhängig zu sein?",
+      "Du hast genug davon, morgen anzufangen?"
+    ],
+    "yes": "Ja",
+    "no": "Nein",
+    "noMessage": "Das verstehen wir. Meld dich, wenn du bereit bist.",
+    "completedHeadline": "Erwecke JETZT Deinen KAMPFGEIST",
+    "completedCta": "WhatsApp schreiben",
+    "completedMicro": "Das Erstgespräch ist immer kostenlos. Immer."
+  },
+  "forWhom": {
+    "headline": "Für wen das ist. Und für wen nicht.",
+    "forLabel": "Das bist du",
+    "notLabel": "Nicht für dich",
+    "for": [
+      "Du willst endlich durchziehen — nicht nur drüber reden",
+      "Du bist vielbeschäftigt und willst trotzdem liefern",
+      "Du nimmst die Verantwortung für dein Ergebnis selbst",
+      "Du willst lernen, nicht abhängig bleiben",
+      "Du hältst ehrliches Feedback aus"
+    ],
+    "not": [
+      "Du suchst eine Wunderpille",
+      "Du willst, dass jemand alles für dich erledigt",
+      "Du gibst nach drei Wochen auf, wenn's unbequem wird",
+      "Du brauchst jemanden, der dich dauerhaft an die Hand nimmt"
+    ]
+  },
+  "services": {
+    "eyebrow": "LEISTUNGEN",
+    "headline": "Was ich dir bieten kann.",
+    "ctaLabel": "Gespräch buchen",
+    "fallback": [
+      {
+        "title": "Personal Training",
+        "description": "Individuell abgestimmtes Training — online, persönlich oder hybrid. Kein Standardplan, sondern ein System für deinen Alltag.",
+        "icon": "Dumbbell"
+      },
+      {
+        "title": "Boxcoach",
+        "description": "Gruppenfitness, Technik und Kondition. Effektives Training, das dich fordert und weiterbringt.",
+        "icon": "Target"
+      },
+      {
+        "title": "Firmenfitness",
+        "description": "Maßgeschneiderte Fitnessprogramme für Unternehmen und Teams. Produktivere Mitarbeiter, gesündere Kultur.",
+        "icon": "Building2"
+      }
+    ]
+  },
+  "reviews": {
+    "eyebrow": "BEWERTUNGEN",
+    "headline": "Was andere über Lukas sagen.",
+    "allReviews": "Alle Bewertungen auf Google",
+    "readMore": "Weiterlesen",
+    "readLess": "Weniger"
+  },
+  "instagram": {
+    "eyebrow": "INSTAGRAM",
+    "headline": "Er macht das wirklich täglich.",
+    "handle": "@kampfgeist.personal.training",
+    "followCta": "Folge uns auf Instagram",
+    "fallbackText": "Schau auf Instagram vorbei — tägliche Einblicke, echte Ergebnisse, kein Filter."
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "headline": "Noch Fragen?",
+    "items": [
+      {
+        "question": "Was kostet das Personal Training?",
+        "answer": "Das Erstgespräch ist immer kostenlos. Danach besprechen wir transparent, was für dich passt — keine versteckten Kosten, keine Überraschungen."
+      },
+      {
+        "question": "Wie läuft das Erstgespräch ab?",
+        "answer": "15–30 Minuten, Telefon oder Video. Kein Verkauf. Wir schauen gemeinsam, ob und wie ich dir helfen kann. Wenn nicht, sage ich das auch."
+      },
+      {
+        "question": "Ich hab keine Zeit — wie soll das gehen?",
+        "answer": "Genau dafür ist das System gemacht. 20 Minuten am Tag reichen — wenn sie die richtigen 20 Minuten sind. Den Plan bauen wir um dein Leben, nicht umgekehrt."
+      },
+      {
+        "question": "Werde ich abhängig von Lukas?",
+        "answer": "Das ist der häufigste Einwand — und der beste. Nein. Mein Ziel ist, dass du irgendwann weitertrainierst, weil du weißt was du tust — nicht weil du musst. Abhängigkeit ist das Gegenteil von dem, was ich will."
+      },
+      {
+        "question": "Funktioniert das auch rein online?",
+        "answer": "Ja. Vollständig. Lukas arbeitet über die OC App auch remote — Trainingsplanung, Check-ins, Feedback. Alles funktioniert ohne vor Ort zu sein."
+      },
+      {
+        "question": "Was ist, wenn ich aufgebe?",
+        "answer": "Dann war es das falsche System oder der falsche Zeitpunkt. Kein Drama. Aber wer sich zum Erstgespräch meldet, hat meistens schon entschieden — du liest das hier gerade, also weißt du es selbst."
+      }
+    ]
+  },
+  "lossAversion": {
+    "headline": "Was kostet dich jede Woche, in der du weiter wartest?",
+    "sub": "Nicht in Euro. In dem Körper, den du haben könntest."
+  },
+  "finalCta": {
+    "eyebrow": "JETZT ODER NIE.",
+    "headline": "Du liest das hier gerade. Das ist kein Zufall.",
+    "sub": "Was machst du mit dem nächsten Moment?",
+    "ctaWhatsapp": "WhatsApp schreiben",
+    "ctaCal": "Termin buchen",
+    "micro1": "Das Erstgespräch ist immer kostenlos. Immer.",
+    "micro2": "Antwortet innerhalb von 24h."
+  },
+  "popup": {
+    "variantA": {
+      "headline1": "HEUTE HANDELN.",
+      "headline2": "SPÄTER BEREUEN.",
+      "body": "Erwecke Deinen Kampfgeist!",
+      "sub": "Du hast JETZT die Möglichkeit dein Leben für immer zu verändern. Wie entscheidest Du Dich?",
+      "cta1": "Trag Dich Ein",
+      "cta2": "Sprich Mit Mir — 5 Minuten",
+      "dismiss": "Bleib Da Wo Du Stehst"
+    },
+    "variantB": {
+      "headline1": "EIN GESPRÄCH.",
+      "headline2": "5 MINUTEN. KOSTENLOS.",
+      "body": "Kein Druck. Keine Verpflichtung.",
+      "sub": "Nur Klarheit darüber, ob und wie Personal Training für dich funktionieren kann.",
+      "cta1": "Jetzt Termin buchen",
+      "cta2": "WhatsApp schreiben",
+      "dismiss": "Nein danke"
+    }
+  },
+  "cookie": {
+    "text": "Wir nutzen Cookies für Analyse und Marketing — nur mit deiner Zustimmung.",
+    "acceptAll": "Alle akzeptieren",
+    "necessaryOnly": "Nur notwendige",
+    "settings": "Einstellungen",
+    "privacy": "Datenschutz",
+    "settingsTitle": "Cookie-Einstellungen",
+    "analyticsLabel": "Analyse (GA4)",
+    "analyticsDesc": "Hilft uns zu verstehen, wie die Seite genutzt wird.",
+    "adsLabel": "Marketing (Meta Pixel)",
+    "adsDesc": "Ermöglicht zielgerichtete Werbung.",
+    "save": "Einstellungen speichern"
+  },
+  "whatsapp": {
+    "ariaLabel": "WhatsApp schreiben",
+    "micro": "Antwortet innerhalb von 24h",
+    "prefilledText": "Hey Lukas, ich habe deine Website gesehen und würde gerne herausfinden, ob du mir helfen kannst."
+  },
+  "calDialog": {
+    "title": "Kostenloses Erstgespräch",
+    "micro": "Das Erstgespräch ist immer kostenlos. Immer.",
+    "phoneCta": "Trag dich ein und ich meld mich bei dir",
+    "videoCta": "Investiere 5 Minuten. Verändere dein Leben.",
+    "namePlaceholder": "Dein Name (optional)",
+    "phonePlaceholder": "Deine Telefonnummer",
+    "emailPlaceholder": "Deine E-Mail-Adresse",
+    "phoneTab": "Telefon",
+    "videoTab": "Video",
+    "submit": "Termin buchen",
+    "phoneRequired": "Telefonnummer ist erforderlich",
+    "emailRequired": "E-Mail ist erforderlich",
+    "emailInvalid": "Ungültige E-Mail-Adresse"
+  },
+  "footer": {
+    "tagline": "Fit trotz wenig Zeit. Personal Training in Osnabrück & Online.",
+    "links": "Links",
+    "legal": "Rechtliches",
+    "impressum": "Impressum",
+    "datenschutz": "Datenschutz",
+    "copyright": "© {{year}} Kampfgeist Personal Training · Lukas Heynemeier · Osnabrück",
+    "allReviews": "Alle Bewertungen auf Google",
+    "instagram": "Instagram",
+    "languageSwitch": "English"
+  },
+  "impressum": {
+    "title": "Impressum",
+    "name": "Lukas Heynemeier",
+    "business": "Kampfgeist Personal Training",
+    "address": "TODO: Straße, PLZ Osnabrück",
+    "email": "TODO: kontakt@kampfgeist-pt.com",
+    "phone": "TODO: +49 XXX XXXXXXXX",
+    "vatNote": "Kleinunternehmer gemäß § 19 UStG",
+    "responsibleLabel": "Verantwortlich für den Inhalt",
+    "responsible": "Lukas Heynemeier"
+  },
+  "datenschutz": {
+    "title": "Datenschutzerklärung",
+    "intro": "Der Schutz deiner persönlichen Daten ist uns wichtig. Nachfolgend informieren wir dich über die Verarbeitung deiner Daten auf dieser Website.",
+    "responsibleHeadline": "Verantwortlicher",
+    "responsible": "Lukas Heynemeier · Kampfgeist Personal Training · TODO: Adresse · TODO: E-Mail",
+    "hostingHeadline": "Hosting",
+    "hosting": "Diese Website wird auf einem VPS-Server in Deutschland gehostet. Der Anbieter verarbeitet Verbindungsdaten im Rahmen der Serverlogs.",
+    "analyticsHeadline": "Analyse (Google Analytics 4)",
+    "analytics": "Wir setzen Google Analytics 4 nur nach deiner ausdrücklichen Einwilligung ein. Die Daten werden anonymisiert und dienen ausschließlich der Verbesserung unseres Angebots.",
+    "pixelHeadline": "Meta Pixel",
+    "pixel": "Das Meta Pixel wird nur nach Einwilligung geladen und ermöglicht uns zielgerichtete Werbung auf Facebook und Instagram.",
+    "rightsHeadline": "Deine Rechte",
+    "rights": "Du hast das Recht auf Auskunft, Berichtigung, Löschung und Einschränkung der Verarbeitung deiner Daten. Wende dich dafür an die oben genannte E-Mail-Adresse.",
+    "cookiesHeadline": "Cookies",
+    "cookies": "Wir verwenden technisch notwendige Cookies sowie — nach Einwilligung — Analyse- und Marketing-Cookies. Du kannst deine Einwilligung jederzeit widerrufen.",
+    "whatsappHeadline": "WhatsApp",
+    "whatsapp": "Wenn du uns über WhatsApp kontaktierst, werden deine Nachrichten bei Meta Inc. verarbeitet. Wir empfehlen, keine sensiblen Daten per WhatsApp zu übermitteln."
+  },
+  "notFound": {
+    "headline": "404",
+    "sub": "Diese Seite gibt es nicht.",
+    "cta": "Zurück zur Startseite"
+  }
+}

@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#0E5D3E" />
+
+    <!-- Preload fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      rel="preload"
+      href="https://fonts.googleapis.com/css2?family=Anton&family=Inter:wght@400;500;600;700&display=swap"
+      as="style"
+      onload="this.onload=null;this.rel='stylesheet'"
+    />
+    <noscript>
+      <link
+        href="https://fonts.googleapis.com/css2?family=Anton&family=Inter:wght@400;500;600;700&display=swap"
+        rel="stylesheet"
+      />
+    </noscript>
+
+    <link rel="icon" type="image/svg+xml" href="/images/favicon.svg" />
+
+    <!-- SEO Meta – overridden by React Helmet per page -->
+    <title>Kampfgeist Personal Training — Fit trotz wenig Zeit | Osnabrück</title>
+    <meta
+      name="description"
+      content="Personal Training in Osnabrück und online — für Vielbeschäftigte, die echte Ergebnisse wollen. Kein Standardprogramm. Ein System, das Teil von dir wird."
+    />
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Kampfgeist Personal Training — Fit trotz wenig Zeit" />
+    <meta
+      property="og:description"
+      content="Personal Training in Osnabrück und online — für Vielbeschäftigte, die echte Ergebnisse wollen."
+    />
+    <meta property="og:image" content="/images/og-image.jpg" />
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Kampfgeist Personal Training" />
+    <meta
+      name="twitter:description"
+      content="Personal Training in Osnabrück und online — für Vielbeschäftigte, die echte Ergebnisse wollen."
+    />
+    <meta name="twitter:image" content="/images/og-image.jpg" />
+
+    <!-- hreflang -->
+    <link rel="alternate" hreflang="de" href="/" />
+    <link rel="alternate" hreflang="en" href="/en" />
+
+    <!-- JSON-LD -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "LocalBusiness",
+        "name": "Kampfgeist Personal Training",
+        "description": "Personal Training in Osnabrück und online — für Vielbeschäftigte, die echte Ergebnisse wollen.",
+        "url": "https://kampfgeist-pt.com",
+        "image": "https://kampfgeist-pt.com/images/og-image.jpg",
+        "priceRange": "€€",
+        "areaServed": ["Osnabrück", "DE"],
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Osnabrück",
+          "addressCountry": "DE"
+        },
+        "founder": {
+          "@type": "Person",
+          "name": "Lukas Heynemeier"
+        }
+      }
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
